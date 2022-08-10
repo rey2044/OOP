@@ -9,8 +9,10 @@ void g();
 void p();
 void main()
 {
+    clrscr();
     g();
     p();
+    getch();
 }
 void g()
 {
