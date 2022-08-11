@@ -14,7 +14,7 @@ class test
 		~test()
 		{
 			cout<<"Destructor Call";
-		{
+		}
 };
 void main()
 {
