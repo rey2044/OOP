@@ -20,13 +20,13 @@ void main()
 void cric::get()
 {
 	cout<<"Enter Cricketer Id:";
-	cin>>sid;
+	cin>>cid;
 	cout<<"Enter Cricketer's Name:";
-	cin>>sn;
+	cin>>cn;
 }
 void cric::put()
 {
-	cout<<"\n Cricketer's ID:"<<sid;
-	cout<<"\n Cricketer's Name:"<<sn;
+	cout<<"\n Cricketer's ID:"<<cid;
+	cout<<"\n Cricketer's Name:"<<cn;
 }
 
