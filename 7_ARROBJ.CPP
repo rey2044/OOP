@@ -5,6 +5,7 @@ class cric
 		int cid;
 		char cn[25];
 		int scr;
+	
 	public:
 		void get();
 		void put();
