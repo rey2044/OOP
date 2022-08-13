@@ -13,7 +13,7 @@ class cric
 void main()
 {
 	clrscr();
-	int n;
+	int i;
 	cric c[3];
 	for(i=0;i<3;i++)
 	{
